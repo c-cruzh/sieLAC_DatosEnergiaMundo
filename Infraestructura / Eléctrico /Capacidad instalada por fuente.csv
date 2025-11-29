@@ -1,10 +1,10 @@
-Año	Descripción	Unidad	América Latina y el Caribe	Mundo
-2023	Hidro	MW	203210.42	203210.42
-2023	Térmica no renovable	MW	179917.41	179917.41
-2023	Nuclear	MW	5353	5353
-2023	Geotermia	MW	1787.23	1787.23
-2023	Eólica	MW	48915.33	48915.33
-2023	Solar	MW	60094.07	60094.07
-2023	Otros	MW		
-2023	Térmica renovable	MW	24074.55	24074.55
-2023	Total	MW	523352.02	523352.02
+Año,Descripción,Unidad,América Latina y el Caribe,Mundo
+2023,Hidro,MW,203210.42,203210.42
+2023,Térmica no renovable,MW,179917.41,179917.41
+2023,Nuclear,MW,5353,5353
+2023,Geotermia,MW,1787.23,1787.23
+2023,Eólica,MW,48915.33,48915.33
+2023,Solar,MW,60094.07,60094.07
+2023,Otros,MW,,
+2023,Térmica renovable,MW,24074.55,24074.55
+2023,Total,MW,523352.02,523352.02
